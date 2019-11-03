@@ -1,5 +1,12 @@
+
+
+
 # mikutap
-A Mainland China friendly and independent version extracted from https://aidn.jp/mikutap  
+在别人网页上看到了这个，就尝试把它弄了下来
+很有意思，在我的个人网页中也有展示
+用来放松一下自己再好不过了
+欢迎大家来访问我的个人主页
+叁页堂：www.sayeton.com
    
 ![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
 
